@@ -1,64 +1,64 @@
-Para participar no fórum o utilizador deverá respeitar o regulamento. Caso atue contra o mesmo, será sancionado.
-A partir do momento em que o utilizador se regista no fórum automaticamente concorda com o regulamento abaixo.
-Caso o utilizador não concorde com o regulamento estipulado poderá requisitar que a sua conta seja banida do fórum.
-O regulamento geral aplica-se em todo o fórum e pode ser complementado com protocolos em áreas específicas que necessitem dos mesmos.
+Para participar no fÃ³rum o utilizador deverÃ¡ respeitar o regulamento. Caso atue contra o mesmo, serÃ¡ sancionado.
+A partir do momento em que o utilizador se regista no fÃ³rum automaticamente concorda com o regulamento abaixo.
+Caso o utilizador nÃ£o concorde com o regulamento estipulado poderÃ¡ requisitar que a sua conta seja banida do fÃ³rum.
+O regulamento geral aplica-se em todo o fÃ³rum e pode ser complementado com protocolos em Ã¡reas especÃ­ficas que necessitem dos mesmos.
 
-A equipa de moderação tem o direito de modificar ou apagar qualquer publicação que não esteja em conformidade com o regulamento ou que ameace o bem-estar da comunidade.
-A equipa de administração poderá fazer alterações no regulamento a qualquer momento, avisando o utilizador através de uma notificação, email ou uma mensagem na caixa de anúncios por cima do chat caso seja possível. O utilizador, porém, compromete-se a verificar o nosso regulamento com regularidade para que esteja ciente de quaisquer alterações no mesmo.
-Por último, a equipa lembra que o regulamento existe para benefício de todos.
+A equipa de moderaÃ§Ã£o tem o direito de modificar ou apagar qualquer publicaÃ§Ã£o que nÃ£o esteja em conformidade com o regulamento ou que ameace o bem-estar da comunidade.
+A equipa de administraÃ§Ã£o poderÃ¡ fazer alteraÃ§Ãµes no regulamento a qualquer momento, avisando o utilizador atravÃ©s de uma notificaÃ§Ã£o, email ou uma mensagem na caixa de anÃºncios por cima do chat caso seja possÃ­vel. O utilizador, porÃ©m, compromete-se a verificar o nosso regulamento com regularidade para que esteja ciente de quaisquer alteraÃ§Ãµes no mesmo.
+Por Ãºltimo, a equipa lembra que o regulamento existe para benefÃ­cio de todos.
 
 Os protocolos podem ser atualizados a qualquer momento separadamente do regulamento geral em vigor.
-É da responsabilidade do utilizador de verificar o protocolo da área onde se encontra antes de publicar na mesma.
+Ã‰ da responsabilidade do utilizador de verificar o protocolo da Ã¡rea onde se encontra antes de publicar na mesma.
 
 
 1. Contas & Privacidade
-1.1) A cada utilizador é apenas permitido possuir uma única conta no fórum. Não é permitido o comércio ou partilha de contas.
-1.2) A publicação de informações pessoais de outros indivíduos não é permitida.
+1.1) A cada utilizador Ã© apenas permitido possuir uma Ãºnica conta no fÃ³rum. NÃ£o Ã© permitido o comÃ©rcio ou partilha de contas.
+1.2) A publicaÃ§Ã£o de informaÃ§Ãµes pessoais de outros indivÃ­duos nÃ£o Ã© permitida.
 
 
-2. Conteúdo & Organização
-2.1) A publicação de comentários cujo conteúdo não traga nada de relevante ao tópico e/ou cujo o objetivo seja perturbar, desrespeitar ou destabilizar não é permitida.
-2.2) A publicação de comentários com menos de 3 palavras ou 10 carateres alfabéticos (podendo incluir numéricos) não é permitida. Não aplicável aos BUMP.
-2.3) A publicação de comentários com grande parte do seu conteúdo em maiúsculas ou letras de tamanho superior ao predefinido (14) não é permitida.
-2.4) A publicação de comentários com vários erros ortográficos não é permitida.
-2.5) A publicação de dois comentários seguidos num mesmo tópico num espaço de tempo menor que 24 horas não é permitida.
-2.6) A publicação de conteúdo considerado +18 é proibido na totalidade do fórum à exceção de áreas contendo "(+18)" no seu nome.
-2.7) A divulgação de outros fóruns não é permitida, à exceção de links com conteúdo informativo ou com resolução de problemas.
-2.8) O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitida.
-2.9) A publicação de tópicos em categorias não relacionadas com o seu conteúdo não é permitida.
-2.11) A publicação de conteúdo malicioso ou pornografia infantil não é permitida.
-2.12) A partilha de qualquer arquivo até 128MB terá obrigatoriamente que conter a sua análise em 'www.virustotal.com'.
-2.13) A citação da fonte quando o conteúdo não é da sua autoria é obrigatória.
-2.14) Na publicação de comentários apenas é permitido o uso das linguas: Português, Inglês.
-2.15) Menosprezar utilizadores do fórum não é permitido.
-2.16) O ato de se fazer passar por membros da equipa não é permitido.
-2.XX) O uso dos protocolos listrados abaixo é obrigatório na publicação de conteúdo.
-2.XX) O utilização DESPROPOSITADA do sistema de reputação a não é permitida (flood de reputação).****
+2. ConteÃºdo & OrganizaÃ§Ã£o
+2.1) A publicaÃ§Ã£o de comentÃ¡rios cujo conteÃºdo nÃ£o traga nada de relevante ao tÃ³pico e/ou cujo o objetivo seja perturbar, desrespeitar ou destabilizar nÃ£o Ã© permitida.
+2.2) A publicaÃ§Ã£o de comentÃ¡rios com menos de 3 palavras ou 10 carateres alfabÃ©ticos (podendo incluir numÃ©ricos) nÃ£o Ã© permitida. NÃ£o aplicÃ¡vel aos BUMP.
+2.3) A publicaÃ§Ã£o de comentÃ¡rios com grande parte do seu conteÃºdo em maiÃºsculas ou letras de tamanho superior ao predefinido (14) nÃ£o Ã© permitida.
+2.4) A publicaÃ§Ã£o de comentÃ¡rios com vÃ¡rios erros ortogrÃ¡ficos nÃ£o Ã© permitida.
+2.5) A publicaÃ§Ã£o de dois comentÃ¡rios seguidos num mesmo tÃ³pico num espaÃ§o de tempo menor que 24 horas nÃ£o Ã© permitida.
+2.6) A publicaÃ§Ã£o de conteÃºdo considerado +18 Ã© proibido na totalidade do fÃ³rum Ã  exceÃ§Ã£o de Ã¡reas contendo "(+18)" no seu nome.
+2.7) A divulgaÃ§Ã£o de outros fÃ³runs nÃ£o Ã© permitida, Ã  exceÃ§Ã£o de links com conteÃºdo informativo ou com resoluÃ§Ã£o de problemas.
+2.8) O uso de palavras ou expressÃµes insultuosas que atinjam um utilizador ou toda a comunidade nÃ£o Ã© permitida.
+2.9) A publicaÃ§Ã£o de tÃ³picos em categorias nÃ£o relacionadas com o seu conteÃºdo nÃ£o Ã© permitida.
+2.11) A publicaÃ§Ã£o de conteÃºdo malicioso ou pornografia infantil nÃ£o Ã© permitida.
+2.12) A partilha de qualquer arquivo atÃ© 128MB terÃ¡ obrigatoriamente que conter a sua anÃ¡lise em 'www.virustotal.com'.
+2.13) A citaÃ§Ã£o da fonte quando o conteÃºdo nÃ£o Ã© da sua autoria Ã© obrigatÃ³ria.
+2.14) Na publicaÃ§Ã£o de comentÃ¡rios apenas Ã© permitido o uso das linguas: PortuguÃªs, InglÃªs.
+2.15) Menosprezar utilizadores do fÃ³rum nÃ£o Ã© permitido.
+2.16) O ato de se fazer passar por membros da equipa nÃ£o Ã© permitido.
+2.XX) O uso dos protocolos listados abaixo Ã© obrigatÃ³rio na publicaÃ§Ã£o de conteÃºdo.
+2.XX) A utilizaÃ§Ã£o DESPROPOSITADA do sistema de reputaÃ§Ã£o a nÃ£o Ã© permitida (flood de reputaÃ§Ã£o).****
 
 
 3. Chat (Shoutbox) Por "chat" entende-se "shoutbox" 
-3.1) Não é permitido fazer publicidade no chat.
-3.5) O uso exagerado de cores ou letra grande no chat não é permitido.
-3.6) O uso exagerado de maiúsculas não é permitido.
-3.7) O envio da mesma frase várias vezes não é permitido (flood).
-3.9) O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitida.
+3.1) NÃ£o Ã© permitido fazer publicidade no chat.
+3.5) O uso exagerado de cores ou letra grande no chat nÃ£o Ã© permitido.
+3.6) O uso exagerado de maiÃºsculas nÃ£o Ã© permitido.
+3.7) O envio da mesma frase vÃ¡rias vezes nÃ£o Ã© permitido (flood).
+3.9) O uso de palavras ou expressÃµes insultuosas que atinjam um utilizador ou toda a comunidade nÃ£o Ã© permitida.
 
 
 4. Assinaturas & Avatares
-4.1) O uso de imagens com dimensões muito grandes na assinatura não é permitido.
-4.2) O uso de imagens que sejam da autoria de outro utilizador (sem a sua autorização) na assinatura ou no avatar não é permitido.
+4.1) O uso de imagens com dimensÃµes muito grandes na assinatura nÃ£o Ã© permitido.
+4.2) O uso de imagens que sejam da autoria de outro utilizador (sem a sua autorizaÃ§Ã£o) na assinatura ou no avatar nÃ£o Ã© permitido.
 
 
 Protocolos existentes:
-Protocolo para Divulgação de Servidores Metin2
-Protocolo para Divulgação de Servidores Minecraft
-Protocolo de Pedidos e Avaliação de Design
+Protocolo para DivulgaÃ§Ã£o de Servidores Metin2
+Protocolo para DivulgaÃ§Ã£o de Servidores Minecraft
+Protocolo de Pedidos e AvaliaÃ§Ã£o de Design
  
-Equipa de Administração: Root Administrador | Coordenador
-Equipa de Moderação: Moderador | Trial Moderador
+Equipa de AdministraÃ§Ã£o: Root Administrador | Coordenador
+Equipa de ModeraÃ§Ã£o: Moderador | Trial Moderador
 Equipa de Design: Designer
 
-Regulamento entrará em vigor desde Maio de 2016.
+Regulamento entrarÃ¡ em vigor desde Maio de 2016.
 
 Atenciosamente
 A equipa,
