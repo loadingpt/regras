@@ -17,7 +17,7 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 
 
 2. Conteúdo & Organização
-2.1) A publicação de comentários cujo conteúdo não traga nada de relevante ao tópico e/ou cujo o objetivo seja perturbar, desrespeitar ou destabilizar o tópico não é permitida.
+2.1) A publicação de comentários cujo conteúdo não traga nada de relevante ao tópico e/ou cujo o objetivo seja perturbar, desrespeitar ou destabilizar não é permitida.
 2.2) A publicação de comentários com menos de 3 palavras ou 10 carateres alfabéticos (podendo incluir numéricos) não é permitida. Não aplicável aos BUMP.
 2.3) A publicação de comentários com grande parte do seu conteúdo em maiúsculas ou letras de tamanho superior ao predefinido (14) não é permitida.
 2.4) A publicação de comentários com vários erros ortográficos não é permitida.
@@ -33,7 +33,7 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 2.15) Menosprezar utilizadores do fórum não é permitido.
 2.16) O ato de se fazer passar por membros da equipa não é permitido.
 2.XX) O uso dos protocolos listrados abaixo é obrigatório na publicação de conteúdo.
-2.XX) O spam DESPROPOSITADO do sistema de reputação a um utilizador não é permitido.****
+2.XX) O utilização DESPROPOSITADA do sistema de reputação a não é permitida (flood de reputação).****
 
 
 3. Chat (Shoutbox) Por "chat" entende-se "shoutbox" 
