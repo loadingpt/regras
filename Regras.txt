@@ -1,4 +1,4 @@
-Para participar no fórum o utilizador terá que respeitar o regulamento. Caso atue contra o mesmo, será sancionado.
+Para participar no fórum o utilizador deverá respeitar o regulamento. Caso atue contra o mesmo, será sancionado.
 A partir do momento em que o utilizador se regista no fórum automaticamente concorda com o regulamento abaixo.
 Caso o utilizador não concorde com o regulamento estipulado poderá requisitar que a sua conta seja banida do fórum.
 O regulamento geral aplica-se em todo o fórum e pode ser complementado com protocolos em áreas específicas que necessitem dos mesmos.
@@ -17,39 +17,36 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 
 
 2. Conteúdo & Organização
-2.1) A publicação de comentários cujo conteúdo não traga nada de relevante ao tópico e/ou cujo o objetivo seja perturbar, desrespeitar ou destabilizar o bom funcionamento do tópico não é permitida.
-2.2) A publicação de comentários com menos de 3 palavras ou 10 carateres alfabéticos (podendo incluir numéricos) não é permitida.
+2.1) A publicação de comentários cujo conteúdo não traga nada de relevante ao tópico e/ou cujo o objetivo seja perturbar, desrespeitar ou destabilizar o tópico não é permitida.
+2.2) A publicação de comentários com menos de 3 palavras ou 10 carateres alfabéticos (podendo incluir numéricos) não é permitida. Não aplicável aos BUMP.
 2.3) A publicação de comentários com grande parte do seu conteúdo em maiúsculas ou letras de tamanho superior ao predefinido (14) não é permitida.
-2.4) A publicação de comentários com vários erros ortográficos não é permitida. Lembre-se que outros utilizadores poderão necessitar de ler o seu conteúdo, o que se torna difícil com bastantes erros ortográficos no mesmo. Recomendamos o uso do corretor ortográfico do seu web browser em Português (Portugal) ou Português (Brasil).
+2.4) A publicação de comentários com vários erros ortográficos não é permitida.
 2.5) A publicação de dois comentários seguidos num mesmo tópico num espaço de tempo menor que 24 horas não é permitida.
-2.6) A publicação de conteúdo considerado +18 (incluindo conteúdo gore ou sexualmente explícito, mas não limitado a) é proibido na totalidade do fórum à exceção de áreas contendo "(+18)" no seu nome.
+2.6) A publicação de conteúdo considerado +18 é proibido na totalidade do fórum à exceção de áreas contendo "(+18)" no seu nome.
 2.7) A divulgação de outros fóruns não é permitida, à exceção de links com conteúdo informativo ou com resolução de problemas.
-2.8) O uso de palavras ou expressões insultuosas que atinjam um utilizador em particular ou a comunidade como um todo não é permitida.
-2.9) A publicação de tópicos em categorias não relacionadas com o seu conteúdo não é permitida. Caso tenha dúvidas de onde postar o seu tópico, peça ajuda a um membro da equipa de moderação e/ou administração.
-2.10) Discussões pessoais à vista dos restantes membros da comunidade não são permitidas.
-2.11) A publicação de conteúdo malicioso ou pornografia infantil não é permitida em qualquer lugar do fórum.
-2.12) A publicação de um link para qualquer arquivo até 128MB terá obrigatoriamente que conter o link para o resultado da sua análise em 'www.virustotal.com'.
-2.13) A citação da fonte quando o conteúdo não é da autoria do autor do comentário é obrigatória.
-2.14) O Português é a língua oficial do nosso fórum. Todas as variantes de Português e Inglês são aceites no fórum. Não é permitida a publicação de comentários em linguagens que não as referidas.
-2.15) Menosprezar outros utilizadores do fórum porque eles sabem menos que você não é permitido.
-2.16) O ato de se fazer passar por membros da equipa de moderação e/ou administração não é permitido.
+2.8) O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitida.
+2.9) A publicação de tópicos em categorias não relacionadas com o seu conteúdo não é permitida.
+2.11) A publicação de conteúdo malicioso ou pornografia infantil não é permitida.
+2.12) A partilha de qualquer arquivo até 128MB terá obrigatoriamente que conter a sua análise em 'www.virustotal.com'.
+2.13) A citação da fonte quando o conteúdo não é da sua autoria é obrigatória.
+2.14) Na publicação de comentários apenas é permitido o uso das linguas: Português, Inglês.
+2.15) Menosprezar utilizadores do fórum não é permitido.
+2.16) O ato de se fazer passar por membros da equipa não é permitido.
+2.XX) O uso dos protocolos listrados abaixo é obrigatório na publicação de conteúdo.
+2.XX) O spam DESPROPOSITADO do sistema de reputação a um utilizador não é permitido.****
 
 
 3. Chat (Shoutbox) Por "chat" entende-se "shoutbox" 
-3.1) Não é permitido fazer publicidade de websites no chat. No entanto, é permitida a publicação de links de eventos em direto e links de acesso a conteúdo geral.
-3.2) Não é permitida a publicação de vídeos ou GIFs fora da tag spoiler.
-3.3) Não é permitida a publicação de imagens maiores que os limites predefinidos do chat fora da tag spoiler. Imagens de tamanho pequeno podem ser publicadas fora da tag spoiler.
-3.4) A publicação de conteúdo considerado +18 (incluindo conteúdo gore ou sexualmente explícito, mas não limitado a) no chat não é permitida.
+3.1) Não é permitido fazer publicidade no chat.
 3.5) O uso exagerado de cores ou letra grande no chat não é permitido.
 3.6) O uso exagerado de maiúsculas não é permitido.
 3.7) O envio da mesma frase várias vezes não é permitido (flood).
-3.8) Dúvidas relacionadas com Metin2 não são permitidas no chat.
-3.9) Discussões pessoais à vista dos restantes membros da comunidade não são permitidas no chat.
+3.9) O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitida.
 
 
 4. Assinaturas & Avatares
-4.1) O uso de imagens com dimensões muito grandes na assinatura não é permitido, ou seja, imagens que quebrem o layout do fórum e/ou que deixem o acesso lento a outros utilizadores.
-4.2) O uso de imagens que sejam da autoria de outro utilizador (sem a sua autorização) na assinatura ou no avatar não é permitido. Caso aconteça, a vítima poderá contactar a equipa de moderação e/ou administração apresentando provas de que a imagem é da sua autoria.
+4.1) O uso de imagens com dimensões muito grandes na assinatura não é permitido.
+4.2) O uso de imagens que sejam da autoria de outro utilizador (sem a sua autorização) na assinatura ou no avatar não é permitido.
 
 
 Protocolos existentes:
