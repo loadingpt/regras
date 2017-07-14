@@ -18,13 +18,13 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 
 2. Conteúdo & Organização
 2.1) A publicação de comentários cujo conteúdo não traga nada de relevante ao tópico e/ou cujo o objetivo seja perturbar, desrespeitar ou destabilizar não é permitida.
-2.2) A publicação de comentários com menos de 3 palavras ou 10 carateres alfabéticos (podendo incluir numéricos) não é permitida. Não aplicável aos BUMP.
-2.3) A publicação de comentários com grande parte do seu conteúdo em maiúsculas ou letras de tamanho superior ao predefinido (14) não é permitida.
+2.2) A publicação de comentários com menos de 3 palavras ou 10 carateres alfabéticos (podendo incluir numéricos) não é permitida. Não aplicável aos "BUMP's".
+2.3) A publicação de comentários com maior parte do seu conteúdo em maiúsculas ou letras de tamanho superior ao predefinido (14) não é permitida.
 2.4) A publicação de comentários com vários erros ortográficos não é permitida.
 2.5) A publicação de dois comentários seguidos num mesmo tópico num espaço de tempo menor que 24 horas não é permitida.
 2.6) A publicação de conteúdo considerado +18 é proibido na totalidade do fórum à exceção de áreas contendo "(+18)" no seu nome.
 2.7) A divulgação de outros fóruns não é permitida, à exceção de links com conteúdo informativo ou com resolução de problemas.
-2.8) O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitida.
+2.8) O uso de palavras ou expressões insultuosas(calão) que atinjam um utilizador ou toda a comunidade não é permitida.
 2.9) A publicação de tópicos em categorias não relacionadas com o seu conteúdo não é permitida.
 2.11) A publicação de conteúdo malicioso ou pornografia infantil não é permitida.
 2.12) A partilha de qualquer arquivo até 128MB terá obrigatoriamente que conter a sua análise em 'www.virustotal.com'.
@@ -32,16 +32,17 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 2.14) Na publicação de comentários apenas é permitido o uso das linguas: Português, Inglês.
 2.15) Menosprezar utilizadores do fórum não é permitido.
 2.16) O ato de se fazer passar por membros da equipa não é permitido.
-2.XX) O uso dos protocolos listados abaixo é obrigatório na publicação de conteúdo.
-2.XX) A utilização DESPROPOSITADA do sistema de reputação a não é permitida (flood de reputação).****
+2.17) O uso dos protocolos listados abaixo é obrigatório na publicação de conteúdo.
+2.18) A utilização DESPROPOSITADA do sistema de Reputação não é permitida.
+2.19) A criação de inúmeros tópicos com o mesmo conteúdo num espaço de 24h não é permitido.
+
 
 
 3. Chat (Shoutbox) Por "chat" entende-se "shoutbox" 
 3.1) Não é permitido fazer publicidade no chat.
-3.5) O uso exagerado de cores ou letra grande no chat não é permitido.
-3.6) O uso exagerado de maiúsculas não é permitido.
-3.7) O envio da mesma frase várias vezes não é permitido (flood).
-3.9) O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitida.
+3.2 O uso exagerado de maiúsculas não é permitido.
+3.2 O envio da mesma frase várias vezes não é permitido (flood).
+3.4 O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitida.
 
 
 4. Assinaturas & Avatares
