@@ -22,7 +22,7 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 2.5) A publicação de dois comentários seguidos num mesmo tópico num espaço de tempo menor que 24 horas não é permitida.
 2.6) A publicação de conteúdo considerado +18 é proibido na totalidade do fórum à exceção de áreas contendo "(+18)" no seu nome.
 2.7) A divulgação de outros fóruns não é permitida, à exceção de links com conteúdo informativo ou com resolução de problemas.
-2.8) O uso de palavras ou expressões insultuosas(calão) que atinjam um utilizador ou toda a comunidade não é permitida.
+2.8) O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitida.
 2.9) A publicação de tópicos em categorias não relacionadas com o seu conteúdo não é permitida.
 2.11) A publicação de conteúdo malicioso ou pornografia infantil não é permitida.
 2.12) A partilha de qualquer arquivo até 128MB terá obrigatoriamente que conter a sua análise em 'www.virustotal.com'.
@@ -31,9 +31,8 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 2.15) Menosprezar utilizadores do fórum não é permitido.
 2.16) O ato de se fazer passar por membros da equipa não é permitido.
 2.17) A verificação dos protocolos das suas respetivas áreas é obrigatória.
-2.18) A utilização DESPROPOSITADA do sistema de Reputação não é permitida.
-2.19) A criação de inúmeros tópicos com o mesmo conteúdo num espaço de 24h não é permitido.
-
+2.18) A utilização DESPROPOSITADA do Sistema de Reputação não é permitida.
+2.19) A criação de vários tópicos com o mesmo conteúdo num espaço de 24h não é permitido.
 
 
 3. Chat (Shoutbox) Por "chat" entende-se "shoutbox" 
