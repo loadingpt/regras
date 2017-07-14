@@ -8,8 +8,6 @@ A equipa de administração poderá fazer alterações no regulamento a qualquer
 Por último, a equipa lembra que o regulamento existe para benefício de todos.
 
 Os protocolos podem ser atualizados a qualquer momento separadamente do regulamento geral em vigor.
-É da responsabilidade do utilizador de verificar o protocolo da área onde se encontra antes de publicar na mesma.
-
 
 1. Contas & Privacidade
 1.1) A cada utilizador é apenas permitido possuir uma única conta no fórum. Não é permitido o comércio ou partilha de contas.
@@ -32,7 +30,7 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 2.14) Na publicação de comentários apenas é permitido o uso das linguas: Português, Inglês.
 2.15) Menosprezar utilizadores do fórum não é permitido.
 2.16) O ato de se fazer passar por membros da equipa não é permitido.
-2.17) A verificação dos protocolos(Defino para cada área) é obrigatória.
+2.17) A verificação dos protocolos das suas respetivas áreas é obrigatória.
 2.18) A utilização DESPROPOSITADA do sistema de Reputação não é permitida.
 2.19) A criação de inúmeros tópicos com o mesmo conteúdo num espaço de 24h não é permitido.
 
@@ -40,9 +38,9 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 
 3. Chat (Shoutbox) Por "chat" entende-se "shoutbox" 
 3.1) Não é permitido fazer publicidade no chat.
-3.2 O uso exagerado de maiúsculas não é permitido.
-3.2 O envio da mesma frase várias vezes não é permitido (flood).
-3.4 O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitida.
+3.2) O uso exagerado de maiúsculas não é permitido.
+3.3) O envio da mesma frase várias vezes não é permitido (flood).
+3.4) O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitida.
 
 
 4. Assinaturas & Avatares
@@ -55,11 +53,8 @@ Protocolo para Divulgação de Servidores Metin2
 Protocolo para Divulgação de Servidores Minecraft
 Protocolo de Pedidos e Avaliação de Design
  
-Equipa de Administração: Root Administrador | Coordenador
-Equipa de Moderação: Moderador | Trial Moderador
-Equipa de Design: Designer
-
-Regulamento entrará em vigor desde Maio de 2016.
+Equipa de Administração/Moderação:
+Regulamento entrará em vigor ****************
 
 Atenciosamente
 A equipa,
