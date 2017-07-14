@@ -32,7 +32,7 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 2.14) Na publicação de comentários apenas é permitido o uso das linguas: Português, Inglês.
 2.15) Menosprezar utilizadores do fórum não é permitido.
 2.16) O ato de se fazer passar por membros da equipa não é permitido.
-2.17) A utilização dos protocolos é obrigatória.
+2.17) A verificação dos protocolos(Defino para cada área) é obrigatória.
 2.18) A utilização DESPROPOSITADA do sistema de Reputação não é permitida.
 2.19) A criação de inúmeros tópicos com o mesmo conteúdo num espaço de 24h não é permitido.
 
