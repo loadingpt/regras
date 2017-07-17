@@ -41,7 +41,7 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 3.3) O envio da mesma frase várias vezes não é permitido (flood).
 3.4) O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitida.
 3.5) A publicação de conteúdo considerado +18 no chat não é permitida.
-3.6) Discussões pessoais à vista dos restantes membros da comunidade não são permitidas no chat.
+
 
 4. Assinaturas & Avatares
 4.1) O uso de imagens com dimensões muito grandes na assinatura não é permitido.
