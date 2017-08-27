@@ -16,7 +16,7 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 
 2. Conteúdo & Organização
 2.1) A publicação de comentários cujo conteúdo não traga nada de relevante ao tópico e/ou cujo o objetivo seja perturbar, desrespeitar ou destabilizar não é permitida.
-2.2) A publicação de comentários com menos de 3 palavras ou 10 carateres alfabéticos (podendo incluir numéricos) não é permitida. Não aplicável aos "BUMP's".
+2.2) A publicação de comentários com menos de 3 palavras ou 10 carateres alfabéticos (podendo incluir numéricos) não é permitida.
 2.3) A publicação de comentários com maior parte do seu conteúdo em maiúsculas ou letras de tamanho superior ao predefinido (14) não é permitida.
 2.4) A publicação de comentários com vários erros ortográficos não é permitida.
 2.5) A publicação de dois comentários seguidos num mesmo tópico num espaço de tempo menor que 24 horas não é permitida.
@@ -33,13 +33,14 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 2.17) A verificação dos protocolos das suas respetivas áreas é obrigatória.
 2.18) A utilização DESPROPOSITADA do Sistema de Reputação não é permitida.
 2.19) A criação de vários tópicos com o mesmo conteúdo num espaço de 24h não é permitido.
+2.20) A partilha de conteúdo disponivel apenas a membros de honra/elite/plus não é permitida.
 
 
 3. Chat (Shoutbox) Por "chat" entende-se "shoutbox" 
 3.1) Não é permitido fazer publicidade no chat.
 3.2) O uso exagerado de maiúsculas não é permitido.
 3.3) O envio da mesma frase várias vezes não é permitido (flood).
-3.4) O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitida.
+3.4) O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitido.
 3.5) A publicação de conteúdo considerado +18 no chat não é permitida.
 
 
