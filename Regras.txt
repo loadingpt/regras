@@ -37,7 +37,7 @@ Os protocolos podem ser atualizados a qualquer momento separadamente do regulame
 
 
 3. Chat (Shoutbox) Por "chat" entende-se "shoutbox" 
-3.1) Não é permitido fazer publicidade no chat.
+3.1) Não é permitido fazer publicidade no chat( isso inclui fóruns, websites etc).
 3.2) O uso exagerado de maiúsculas não é permitido.
 3.3) O envio da mesma frase várias vezes não é permitido (flood).
 3.4) O uso de palavras ou expressões insultuosas que atinjam um utilizador ou toda a comunidade não é permitido.
